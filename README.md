@@ -5,5 +5,5 @@ Smart Resource Allocation – Volunteer &amp; Crisis Coordination Platform  A we
 
 click the link below
 
-
-https://safety-alert-system--manchalahemanth.replit.app/
+[
+https://safety-alert-system--manchalahemanth.replit.app/](https://safety-alert-system--manchalahemanth.replit.app/)
